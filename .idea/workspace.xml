@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75c3f3e0-8733-496f-b043-23a13b9041e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Christmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreatePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utmedriller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/UtmedrillerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/AccountTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2B1gQqiixgER9AthQdumJkRVjgU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/dell/IdeaProjects/javaExercises/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tddClass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CreatePattern">
+    <configuration name="Christmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Christmas" />
+      <module name="javaExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Craps" />
+      <module name="javaExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreatePattern" />
+      <module name="javaExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="javaExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomDigits" />
+      <module name="javaExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreatePattern" />
+        <item itemvalue="Application.Christmas" />
+        <item itemvalue="Application.RandomDigits" />
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Craps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75c3f3e0-8733-496f-b043-23a13b9041e8" name="Changes" comment="" />
+      <created>1656078994368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656078994368</updated>
+      <workItem from="1656078995869" duration="7691000" />
+      <workItem from="1656146118777" duration="3652000" />
+      <workItem from="1656202877906" duration="19853000" />
+      <workItem from="1656686940920" duration="4759000" />
+      <workItem from="1656728563836" duration="688000" />
+      <workItem from="1656762236383" duration="7982000" />
+      <workItem from="1656772469626" duration="29968000" />
+      <workItem from="1656903078093" duration="5670000" />
+      <workItem from="1656919991822" duration="9005000" />
+      <workItem from="1656987300122" duration="15777000" />
+      <workItem from="1657006471266" duration="1788000" />
+      <workItem from="1657010858770" duration="10943000" />
+      <workItem from="1657072881206" duration="7495000" />
+      <workItem from="1657091547247" duration="4882000" />
+      <workItem from="1657106591989" duration="7002000" />
+      <workItem from="1657159204042" duration="14655000" />
+      <workItem from="1657179013323" duration="12952000" />
+      <workItem from="1657200045264" duration="7632000" />
+      <workItem from="1657247979280" duration="3387000" />
+      <workItem from="1657267515175" duration="13359000" />
+      <workItem from="1657303319238" duration="24647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/UtmedrillerTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nokia.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StudentGrade.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CreatePattern.java</url>
+          <line>1</line>
+          <properties class="CreatePattern" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaExercises$TestingArrays.ic" NAME="TestingArrays Coverage Results" MODIFIED="1657186436007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
