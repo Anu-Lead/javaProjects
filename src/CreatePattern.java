@@ -87,7 +87,7 @@ int count = 10;
 
 
         // DIAMOND PATTERN
-
+/*
         int countStar = 9;
         for (int a = 1; a < countStar; a++) {
             for (int b = a; b <= countStar; b++) {
@@ -116,4 +116,25 @@ int count = 10;
             System.out.println();
         }
     }
-}
+
+ */
+        int countStar = 6;
+        for (int a = 1; a <= countStar; a++) {
+            for (int b = a; b < countStar; b++) {
+                System.out.print(" ");
+            }
+            for (int b = 1; b < a; b++) {
+                System.out.print("2");
+            }
+            for (int b = 1; b < a; b++) {
+                System.out.print("2");
+                break;
+            }
+            for (int b = 1; b < 2; b++) {
+                    System.out.println("1");
+                    break;
+                }
+            }
+            System.out.println();
+        }
+    }

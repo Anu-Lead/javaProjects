@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c3f3e0-8733-496f-b043-23a13b9041e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Christmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreatePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nokia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonalityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utmedriller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/UtmedrillerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/AccountTest.java" afterDir="false" />
+    <list default="true" id="75c3f3e0-8733-496f-b043-23a13b9041e8" name="Changes" comment="git commit -m &quot;Java Project Files&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrderedReceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SevenSegmentDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student_Score_Sheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreatePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreatePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentGrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +51,7 @@
     &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/dell/IdeaProjects/javaExercises/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -73,37 +65,37 @@
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreatePattern">
-    <configuration name="Christmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Christmas" />
+  <component name="RunManager" selected="Application.PersonalityTest">
+    <configuration name="MultiArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiArrays" />
       <module name="javaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Craps" />
+    <configuration name="PersonalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalityTest" />
       <module name="javaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreatePattern" />
+    <configuration name="SevenSegDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SevenSegDisplay" />
       <module name="javaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop" />
+    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SevenSegmentDisplay" />
       <module name="javaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomDigits" />
+    <configuration name="StudentGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentGrade" />
       <module name="javaExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreatePattern" />
-        <item itemvalue="Application.Christmas" />
-        <item itemvalue="Application.RandomDigits" />
-        <item itemvalue="Application.Loop" />
-        <item itemvalue="Application.Craps" />
+        <item itemvalue="Application.PersonalityTest" />
+        <item itemvalue="Application.SevenSegmentDisplay" />
+        <item itemvalue="Application.MultiArrays" />
+        <item itemvalue="Application.StudentGrade" />
+        <item itemvalue="Application.SevenSegDisplay" />
       </list>
     </recent_temporary>
   </component>
@@ -147,8 +139,20 @@
       <workItem from="1657200045264" duration="7632000" />
       <workItem from="1657247979280" duration="3387000" />
       <workItem from="1657267515175" duration="13359000" />
-      <workItem from="1657303319238" duration="24647000" />
+      <workItem from="1657303319238" duration="81070000" />
+      <workItem from="1657683565696" duration="9819000" />
+      <workItem from="1657713499333" duration="18049000" />
+      <workItem from="1657814225770" duration="10128000" />
+      <workItem from="1657850853488" duration="8173000" />
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;Java Project Files&quot;">
+      <created>1657427784667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657427784667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;Java Project Files&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Java Project Files&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
