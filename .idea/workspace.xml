@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfac9baa-b903-49b4-b00c-0e1d2956737d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bikeApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/AutobikeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B70GccdsbOj8uCkytLkXqELoGk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/dell/IdeaProjects/bikeApp/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tddClass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AutobikeTest">
+    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessGame" />
+      <module name="bikeApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutobikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bikeApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.AutobikeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutobikeTest.deceleratingGearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bikeApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.AutobikeTest" />
+      <option name="METHOD_NAME" value="deceleratingGearOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutobikeTest.startAccelerating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bikeApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.AutobikeTest" />
+      <option name="METHOD_NAME" value="startAccelerating" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutobikeTest.startTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bikeApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.AutobikeTest" />
+      <option name="METHOD_NAME" value="startTesting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutobikeTest" />
+        <item itemvalue="Application.GuessGame" />
+        <item itemvalue="JUnit.AutobikeTest.deceleratingGearOne" />
+        <item itemvalue="JUnit.AutobikeTest.startTesting" />
+        <item itemvalue="JUnit.AutobikeTest.startAccelerating" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfac9baa-b903-49b4-b00c-0e1d2956737d" name="Changes" comment="" />
+      <created>1656241726239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656241726239</updated>
+      <workItem from="1656241727585" duration="19894000" />
+      <workItem from="1656319206181" duration="7735000" />
+      <workItem from="1656429572690" duration="4685000" />
+      <workItem from="1656465536447" duration="654000" />
+      <workItem from="1656486474320" duration="2632000" />
+      <workItem from="1656565136409" duration="4978000" />
+      <workItem from="1656577035909" duration="10507000" />
+      <workItem from="1656641456809" duration="568000" />
+      <workItem from="1656664778901" duration="5881000" />
+      <workItem from="1656772080974" duration="247000" />
+      <workItem from="1656772351526" duration="1956000" />
+      <workItem from="1656785827293" duration="1752000" />
+      <workItem from="1656902924089" duration="726000" />
+      <workItem from="1656920035984" duration="3351000" />
+      <workItem from="1656987305397" duration="580000" />
+      <workItem from="1657006398952" duration="647000" />
+      <workItem from="1657010640629" duration="1306000" />
+      <workItem from="1657072702900" duration="743000" />
+      <workItem from="1657273893540" duration="695000" />
+      <workItem from="1657302526645" duration="1929000" />
+      <workItem from="1657881313878" duration="369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/tddClass/AutobikeTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
