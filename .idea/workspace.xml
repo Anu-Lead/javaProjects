@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c3f3e0-8733-496f-b043-23a13b9041e8" name="Changes" comment="git commit -m &quot;Java Project Files&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrderedReceipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SevenSegmentDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student_Score_Sheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreatePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreatePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PersonalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentGrade.java" afterDir="false" />
-    </list>
+    <list default="true" id="75c3f3e0-8733-496f-b043-23a13b9041e8" name="Changes" comment="git commit -m &quot;Java Project Files&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,23 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/dell/IdeaProjects/javaExercises/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/dell/IdeaProjects/javaExercises/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tddClass" />
@@ -143,7 +134,7 @@
       <workItem from="1657683565696" duration="9819000" />
       <workItem from="1657713499333" duration="18049000" />
       <workItem from="1657814225770" duration="10128000" />
-      <workItem from="1657850853488" duration="8173000" />
+      <workItem from="1657850853488" duration="8974000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;Java Project Files&quot;">
       <created>1657427784667</created>
